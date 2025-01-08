@@ -116,4 +116,4 @@ Looking forward to any feedback or suggestions!
 
 ## Contact
 
-For more information, please visit my [LinkedIn](https://www.linkedin.com/in/your-profile) or [GitHub](https://github.com/your-profile).
+For more information, please visit my [LinkedIn](https://www.linkedin.com/in/bhavyachawla/) or [GitHub](https://github.com/BhavyaChawlaGit).
